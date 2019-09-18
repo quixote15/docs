@@ -41,7 +41,7 @@ const siteConfig = {
 
   // For github.io type URLs, you would set the url and baseUrl like:
   url: "https://quixote15.github.io",
-  baseUrl: "/docs",
+  baseUrl: "/docs/",
 
   // Used for publishing and more
   projectName: "docs",
