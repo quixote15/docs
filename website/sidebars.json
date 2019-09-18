@@ -4,6 +4,9 @@
       "ambiente-react-native/introducao",
       "ambiente-react-native/editor"
     ],
+    "Padronização de código": [
+      "ambiente-react-native/styling/eslint"
+    ],
     "Android": [
       "ambiente-react-native/android/windows",
       "ambiente-react-native/android/linux",
