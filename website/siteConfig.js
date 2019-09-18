@@ -11,7 +11,7 @@
 // List of projects/orgs using your project for the users page.
 const users = [
   {
-    caption: "quixote15",
+    caption: "Ma9",
     // You will need to prepend the image path with your baseUrl
     // if it is not '/', like: '/test-site/img/docusaurus.svg'.
     image: "/img/logo.png",
@@ -38,10 +38,11 @@ const siteConfig = {
   title: "Ma9 Mobile Docs", // Title for your website.
   tagline: "Documentação de guias da Ma9",
   //url: 'https://rocketseat.com.br', // Your website URL
+  baseUrl: "/",
 
   // For github.io type URLs, you would set the url and baseUrl like:
   url: "https://quixote15.github.io",
-  baseUrl: "/docs/",
+  baseUrl: "/",
 
   // Used for publishing and more
   projectName: "docs",
